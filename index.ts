@@ -19,7 +19,7 @@ export function combineValidators<A>(...validators: ((input: A) => Promise<Eithe
 
       return result;
     } catch (err) {
-      return new ValidatorFailure(err);
+      throw err;
     }
   }
 }
