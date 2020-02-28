@@ -1,4 +1,4 @@
-# Veludo
+# Veludo 🧥
 
 Asynchronous validations with TypeScript
 
