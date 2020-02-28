@@ -1,0 +1,13 @@
+{
+  "name": "veludo",
+  "description": "Promise based validations with TypeScript",
+  "version": "0.0.5",
+  "main": "index.ts",
+  "keywords": ["typescript", "validation", "functional"],
+  "author": {
+    "name": "Gustavo Santos",
+    "email": "gfdsantos@protonmail.com",
+    "url": "https://github.com/gustavofsantos"
+  },
+  "license": "ISC"
+}
